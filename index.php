@@ -37,6 +37,8 @@ Planned features:
 	<li>Empire details - Where did that megastructure / fleet / army planet go?</li>
 	<li>Ironman mode that obeys in-game visibility requirements?</li>
 	<li>Irony mod-identification has <a href="https://github.com/bcssov/IronyModManager/issues/346">pending issues</a> that should allow mod drag-and-drop</a></li>
+	<li>alternatively some mod-identification from save file is possible via searching data within the save, but match would be inspecific</li>
+	<li>Most ideal would be if Paradox added an in-game in-save mod identity and version functionality</li>
 	<li>Mod integrated tech tree</li>
 </ul>
 
