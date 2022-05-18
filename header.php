@@ -2,6 +2,7 @@
 	$titles['home']  = 'Home';
 	$titles['saves'] = 'Save Editor';
 	$titles['mods']  = 'Mod Database';
+	$titles['exceptions'] = 'Exception Translator';
 	$titles['code']	 = 'Code Search';
 	$titles['about'] = 'About';
 
@@ -32,6 +33,7 @@
 				<li class="nav-item"><a href="//dev.stellarstellaris.com/"       class="nav-link <?= ($this_page == 'home')  ? 'active' : ''?>" aria-current="page">Home</a></li>
 				<li class="nav-item"><a href="//mods.dev.stellarstellaris.com/"  class="nav-link <?= ($this_page == 'mods')  ? 'active' : ''?>" aria-current="page">Mod DB</a></li>
 				<li class="nav-item"><a href="//saves.dev.stellarstellaris.com/" class="nav-link <?= ($this_page == 'saves')  ? 'active' : ''?>">Save Editor</a></li>
+				<li class="nav-item"><a href="//exceptions.dev.stellarstellaris.com/" class="nav-link <?= ($this_page == 'exceptions')  ? 'active' : ''?>">Exception Translator</a></li>
 				<li class="nav-item"><a href="//code.dev.stellarstellaris.com/"  class="nav-link disabled <?= ($this_page == 'code')  ? 'active' : ''?>">Code search</a></li>
 				<li class="nav-item"><a href="#"                                 class="nav-link disabled <?= ($this_page == 'about')  ? 'active' : ''?>">About</a></li>
 				<li class="nav-item"><a href="https://github.com/MattMills/stellarstellaris" class="nav-link">Github</a></li>
